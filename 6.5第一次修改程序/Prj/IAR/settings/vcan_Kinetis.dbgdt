@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>29</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    <StaticWatch><expressions><item>midline</item><item>right_line</item><item>left_line</item><item>steer</item><item>error_duoji</item><item>error_duoji_final</item><item>test</item><item>dip_switch_1</item><item>dip_switch_2</item><item>car_run</item><item>white_dot</item><item>gradient</item><item>max_number</item><item>small_number</item><item>val</item><item>var</item><item>PID_P</item><item>PID_I</item><item>PID_D</item><item>pwm</item><item>error</item><item>speed_ideal</item><item>pre_error</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>142</item><item>150</item><item>100</item><item>228</item></col-widths></StaticWatch></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29009-5180</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-28486-5190</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-6989-5183</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>vcan_Kinetis</ExpandedNode><ExpandedNode>vcan_Kinetis/App</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17738-5186</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-25093-6210</Identity><TabName>Live Watch</TabName><Factory>StaticWatch</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\redyif\my_function.c</Filename><XPos>0</XPos><YPos>3</YPos><SelStart>355</SelStart><SelEnd>423</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\inc\MK60_gpio.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1412</SelStart><SelEnd>1412</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\oled.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>2124</SelStart><SelEnd>2124</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Chip\inc\MK60_ftm.h</Filename><XPos>0</XPos><YPos>49</YPos><SelStart>1002</SelStart><SelEnd>1002</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Inc\PORT_cfg.h</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\redyif\key.c</Filename><XPos>0</XPos><YPos>6</YPos><SelStart>650</SelStart><SelEnd>650</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\redyif\car_function_1.c</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>100</SelStart><SelEnd>100</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\oled.c</Filename><XPos>0</XPos><YPos>559</YPos><SelStart>31610</SelStart><SelEnd>31610</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\redyif\variable.c</Filename><XPos>0</XPos><YPos>55</YPos><SelStart>2160</SelStart><SelEnd>2160</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\com.h</Filename><XPos>0</XPos><YPos>96</YPos><SelStart>3446</SelStart><SelEnd>3446</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\redyif\car_function.2.c</Filename><XPos>0</XPos><YPos>273</YPos><SelStart>6010</SelStart><SelEnd>6010</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Board\src\VCAN_OV7725_Eagle.c</Filename><XPos>0</XPos><YPos>150</YPos><SelStart>4203</SelStart><SelEnd>4203</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Board\Inc\VCAN_LED.H</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>594</SelStart><SelEnd>594</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\Inc\MK60_conf.h</Filename><XPos>0</XPos><YPos>68</YPos><SelStart>2337</SelStart><SelEnd>2337</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\App\main.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>375</SelStart><SelEnd>375</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\redyif\redyif.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>366</SelStart><SelEnd>366</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\5.29 - &#x526F;&#x672C;\5.31&#x7A33;&#x8DD1;10&#x79D2;2&#x7684;&#x7A0B;&#x5e8F;\App\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>99</SelStart><SelEnd>99</SelEnd></Tab><ActiveTab>16</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-011bece8><key>iaridepm.enu1</key></Toolbar-011bece8></Sizes></Row0><Row1><Sizes><Toolbar-0b273a08><key>debuggergui.enu1</key></Toolbar-0b273a08></Sizes></Row1><Row2><Sizes><Toolbar-0b273df0><key>armjlink.enu1</key></Toolbar-0b273df0></Sizes></Row2></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>501</Bottom><Right>103</Right><x>-2</x><y>-2</y><xscreen>105</xscreen><yscreen>94</yscreen><sizeHorzCX>76867</sizeHorzCX><sizeHorzCY>137026</sizeHorzCY><sizeVertCX>76867</sizeVertCX><sizeVertCY>733236</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>501</Bottom><Right>31</Right><x>-2</x><y>-2</y><xscreen>105</xscreen><yscreen>94</yscreen><sizeHorzCX>76867</sizeHorzCX><sizeHorzCY>137026</sizeHorzCY><sizeVertCX>15373</sizeVertCX><sizeVertCY>733236</sizeVertCY></Rect></Wnd2></Sizes></Row0><Row1><Sizes><Wnd3><Rect><Top>-2</Top><Left>29</Left><Bottom>501</Bottom><Right>297</Right><x>29</x><y>-2</y><xscreen>105</xscreen><yscreen>94</yscreen><sizeHorzCX>76867</sizeHorzCX><sizeHorzCY>137026</sizeHorzCY><sizeVertCX>196193</sizeVertCX><sizeVertCY>733236</sizeVertCY></Rect></Wnd3></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>92</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>94</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>137026</sizeHorzCY><sizeVertCX>76867</sizeVertCX><sizeVertCY>137026</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
